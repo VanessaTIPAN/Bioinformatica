@@ -39,11 +39,11 @@ columnas para cada red:
 3. Por ultimo usamos un 
 ## Bucle 
 for P in $Ej2
-do
-echo $P
-done
+- do
+- echo $P
+- done
  
- - Se obtendran los resultados
+ ### Se obtendran los resultados
 
 
 
