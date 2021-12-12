@@ -12,15 +12,16 @@ al final de cada línea. Su guión debería regresar.
 
 
 ### Resolucion  
-- Nos dirigiremos a 
+1. Nos dirigiremos a 
 ## Vanesa@DESKTOP-MVA5365 MINGW64 ~/Documents/Bioinformatica/CSB-master/unix/data/Saavedra2013 (master)
- Se mostraran una serie de documentos. Tomaremos uno, en este caso en 
+2. Se mostraran una serie de documentos. Tomaremos uno, en este caso en 
  ## n1.txt 
- y colocaremos el siguiente comando: 
+3. colocaremos el siguiente comando: 
 #### Para numero de filas
 ## ($ echo "Numero de filas" ; wc -l n1.txt)
 #### Para numero de columnas
 ## ($ echo "Numero de columnas:" ; head -n 1 n1.txt | tr -d ' ' | tr -d '\n' | wc -c)
+### Resultados 
 Se obtendra como resultado
 - Numero de colunmas (plantas): 80
 - Numero de filas (polinizadores): 97
@@ -37,10 +38,10 @@ columnas para cada red:
 ### $ Ej2=../Saavedra2013/
 3. Por ultimo usamos un 
 ## Bucle 
-$ for P in $Ej2
-> do
-> echo $P
-> done
+for P in $Ej2
+do
+echo $P
+done
  
  - Se obtendran los resultados
 
