@@ -30,5 +30,19 @@ Se obtendra como resultado
 > Escriba un guión que imprima el número de filas y
 columnas para cada red:
 
-### Descripcion 
+### Resolucion 
+1. Nos dirijimos a
+## Vanesa@DESKTOP-MVA5365 MINGW64 ~/documents/Bioinformatica/CSB-master/unix/data/Saavedra2013 
+2. Luego escribimos
+### $ Ej2=../Saavedra2013/
+3. Por ultimo usamos un 
+## Bucle 
+$ for P in $Ej2
+> do
+> echo $P
+> done
+ 
+ - Se obtendran los resultados
+
+
 
