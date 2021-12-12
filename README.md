@@ -10,8 +10,13 @@ número de filas (polinizadores) y columnas (plantas). Tenga en cuenta que
 las columnas están separadas por espacios y que hay un espacio en
 al final de cada línea. Su guión debería regresar. 
 
+
 ### Descripcion 
-Usaremos dos comando para contar el numero de filas y columnas en el documento ## n1 .txt 
+- Nos dirigiremos a este archivo 
+## Vanesa@DESKTOP-MVA5365 MINGW64 ~/Documents/Bioinformatica/CSB-master/unix/data/Saavedra2013 (master)
+- Se mostraran unsa serie de documentos pero el que nos interesa es 
+## n1. txt 
+- Usaremos dos comando para contar el numero de filas y columnas en el documento ## n1 .txt 
 
 ##### Nota: En el archivo Saavedra 2013 solo se mostraron 60 archivos, no 63 como se mostraron en la clase.
 - Ejercicio 2
