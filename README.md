@@ -4,7 +4,7 @@
 ## Se mostrara la resolucion de los dos literales del ejercicio 1.10.3 ## Plant- Pollinator Networks
 
 
-- [ ] Ejercicio 1
+- [ ] Ejercicio 1 :tada:
 > Escriba un script que tome uno de estos archivos y determine la
 número de filas (polinizadores) y columnas (plantas). Tenga en cuenta que
 las columnas están separadas por espacios y que hay un espacio en
@@ -24,10 +24,10 @@ al final de cada línea. Su guión debería regresar.
 ### Resultados 
 Se obtendra como resultado
 - Numero de colunmas (plantas): 80
-- Numero de filas (polinizadores): 97
+- Numero de filas (polinizadores): 97 🪐
 
 
-- [ ] Ejercicio 2
+- [ ] Ejercicio 2 :tada:
 > Escriba un guión que imprima el número de filas y
 columnas para cada red:
 
