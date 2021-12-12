@@ -1,1 +1,9 @@
-Para resultados
+Para resultados del ejercicios 1 
+
+Numero de filas
+97 n1.txt
+
+Numero de columnas:
+80
+
+
